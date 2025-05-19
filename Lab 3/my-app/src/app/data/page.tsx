@@ -1,6 +1,12 @@
 import React from 'react';
 
 const Data = () => {
+
+    // const [user, setUser] = useState<User[]>([]);
+    const handleSubmit = async () => {
+        
+    }
+
     return (
         <div>
             <form action="">
